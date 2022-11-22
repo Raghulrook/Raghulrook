@@ -1,25 +1,26 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/3osxYzuMvUJJcqzND2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3osxYzuMvUJJcqzND2">via GIPHY</a></p>)]
-<h1 align="center">Hi 👋, I'm Raghul R</h1>
-<h3 align="center">A Passionate Who is Fourth Year Data Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/_Q8D91URakmNl_8fuFpdDXwB1eGXZi18QQ9Wc13koQ4/rs:fit:753:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/Vm5XSnR5R09YX2tV/SURtNmNjQ2ZRSGFF/cSZwaWQ9QXBp")
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://imgs.search.brave.com/sLbYxpN-HdH8hvVEnYt9SLxs9nn2IMYuLSvoH5UDsQs/rs:fit:1200:600:1/g:ce/aHR0cHM6Ly93d3cu/ZXNkcy5jby5pbi9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzEyLzFfUlRH/SG84eDI3OHJ6aGoy/Y1pTand0QS5naWY.gif))](https://rishavchanda.io)
+
+<h1 align="center">Hi 👋🏼, I'm Raghul R</h1>
+<h3 align="center">A Passionate Data Engineer</h3>
+
+<img align="right" alt="Coding" width="1000" src="[https://i.gifer.com/75ez.gif](https://banner2.cleanpng.com/20190622/rvw/kisspng-big-data-analytics-data-analysis-data-science-5d0ef00e9f1350.9609924315612600466516.jpg)](https://banner2.cleanpng.com/20190622/rvw/kisspng-big-data-analytics-data-analysis-data-science-5d0ef00e9f1350.9609924315612600466516.jpg)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghulrook&label=Profile%20views&color=0e75b6&style=flat" alt="raghulrook" /> </p>
 
-- 🔭 I’m Currently Pursuing **Automobile Engineer**
+- 🔭 I’m Currently Pursuing **- Automobile Engineer**
 
-- 🌱 I’m currently learning **Big Data Engineering**
+- 🌱 I’m currently learning **- Big Data Engineering**
 
-- 🏛️ Pursuing My Degree At **Kumaraguru College Of Technology**
+- 🏛️ Pursuing My Degree At **- KCT**
 
-- 🤝 I’m Looking To Know More About **Big Data**
+- 🤝 I’m Looking To Know More About **- Big Data**
 
-- 💬 Ask me about **#Automotive #Big Data #Data Engineer**
+- 💬 Ask me about **- #Automotive #Big Data **
 
-- 📫 How to reach me **raghulofficial@outlook.com**
+- 📫 How to reach me **- raghulofficial@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OovPGLT37gCwMey0b1l9R38me6BeSgG-/view?usp=share_link](https://drive.google.com/file/d/1OovPGLT37gCwMey0b1l9R38me6BeSgG-/view?usp=share_link)
-
-- ⚡ Soft Skills **Critical Thinker**
+- ⚡ Soft Skills **- Critical Thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghulrook&show_icons=true&locale=en&layout=compact" alt="raghulrook" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrook&show_icons=true&locale=en" alt="raghulrook" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghulrook&" alt="raghulrook" /></p>
