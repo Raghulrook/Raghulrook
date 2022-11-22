@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Data Engineer</h3>
 
 
-<img align="right" width="400" src="https://imgs.search.brave.com/LsY1z7idIa-nsWhlqno45k3p1oFYVGr2kJRmeCIl0GI/rs:fit:675:450:1/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvc29mdHdh/cmUtZGV2ZWxvcGVy/LTE5NDY4OTItMTY1/MTU5Mi5wbmc" >
+<img align="right" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-2357851-2040585.png" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghulrook&label=Profile%20views&color=0e75b6&style=flat" alt="raghulrook" /> </p>
@@ -27,8 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/raghulrook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494465.png" alt="raghulrook" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/raghulraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raghulraja" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_r_a_g_h_u_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_r_a_g_h_u_l" height="30" width="40" /></a>
+<a href="https://instagram.com/i_m_r_a_g_h_u_l" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" alt="i_m_r_a_g_h_u_l" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
