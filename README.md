@@ -3,8 +3,7 @@
 - 👀 I’m interested in Big Data ...
 - 🌱 I’m currently learning Data Engineering...
 - 📫 You can reach me raghulofficial@outlook.com...
-- 🖇️ Linked In :www.linkedin.com/in/raghulraja
-              
+- 🖇️ Linked In :<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!---
 Raghulrook/Raghulrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
