@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://imgs.search.brave.com/sLbYxpN-HdH8hvVEnYt9SLxs9nn2IMYuLSvoH5UDsQs/rs:fit:1200:600:1/g:ce/aHR0cHM6Ly93d3cu/ZXNkcy5jby5pbi9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzEyLzFfUlRH/SG84eDI3OHJ6aGoy/Y1pTand0QS5naWY.gif))](https://rishavchanda.io)
+![MasterHead](https://www.webonise.com/wp-content/themes/webo/images/career-Detail.svg)
 
 <h1 align="center">Hi 👋🏼, I'm Raghul R</h1>
 <h3 align="center">A Passionate Data Engineer</h3>
