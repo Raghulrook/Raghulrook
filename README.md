@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raghulrook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494465.png" alt="raghulrook" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/raghulraja" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/designbolts/ios8-style-social/1024/Linkedin-icon.png" alt="www.linkedin.com/in/raghulraja" height="40" width="40" /></a>
-<a href="https://instagram.com/i_m_r_a_g_h_u_l" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" alt="i_m_r_a_g_h_u_l" height="38" width="38" /></a>
+<a href="https://twitter.com/raghulrook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494465.png" alt="raghulrook" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/raghulraja" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/designbolts/ios8-style-social/1024/Linkedin-icon.png" alt="www.linkedin.com/in/raghulraja" height="30" width="30" /></a>
+<a href="https://instagram.com/i_m_r_a_g_h_u_l" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" alt="i_m_r_a_g_h_u_l" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
