@@ -25,6 +25,8 @@
 
 - ⚡ Soft Skills **- Critical Thinker**
 
+<img align="right" width="250" src="https://user-images.githubusercontent.com/118167519/206841591-396942d0-df68-4bfd-ae8e-d971f65bbb79.jpg" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghulrook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494465.png" alt="raghulrook" height="30" width="30" /></a>
