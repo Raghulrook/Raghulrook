@@ -6,10 +6,7 @@
 
 <img align="right" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-2357851-2040585.png" >
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghulrook&label=Profile%20views&color=0e75b6&style=flat" alt="raghulrook" /> </p>
-
-
               
 - 🔭 I’m Currently Pursuing My Fourth Year on **- Automobile Engineer**
 
@@ -25,7 +22,6 @@
 
 - ⚡ Soft Skills **- Critical Thinker**
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/118167519/206841591-396942d0-df68-4bfd-ae8e-d971f65bbb79.jpg" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,9 +31,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/> </a> </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghulrook&=show_icons=true&locale=en&layout=compact" alt="raghulrook" /></a>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrook&show_icons=true&locale=en" alt="raghulrook" /></a>
 
+<h3 align="left">Statistics:</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghulrook&=show_icons=true&locale=en&layout=compact" alt="raghulrook" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrook&show_icons=true&locale=en" alt="raghulrook" /></a>
+</p>
