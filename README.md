@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghulrook&label=Profile%20views&color=0e75b6&style=flat" alt="raghulrook" /> </p>
               
-- 🔭 I’m Currently Pursuing My Fourth Year on **- Automobile Engineer**
+- 🔭 Pursuing Final Year Major In **- Automobile Engineer**
 
-- 🌱 I’m currently learning **- Big Data Engineering**
+- 🌱 What Of Now! - **@AVTEC CAE-Intern Engineer**
 
 - 🏛️ Pursuing My Degree At **- Kumaraguru College Of Technology**
 
